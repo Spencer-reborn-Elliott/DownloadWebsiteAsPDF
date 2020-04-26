@@ -1,0 +1,17 @@
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\bin\Release\DownloadWebsiteAsPDF.exe.config
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\bin\Release\DownloadWebsiteAsPDF.exe
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\bin\Release\DownloadWebsiteAsPDF.pdb
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\obj\Release\DownloadWebsiteAsPDF.csprojAssemblyReference.cache
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\obj\Release\DownloadWebsiteAsPDF.Form1.resources
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\obj\Release\DownloadWebsiteAsPDF.Properties.Resources.resources
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\obj\Release\DownloadWebsiteAsPDF.csproj.GenerateResource.cache
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\obj\Release\DownloadWebsiteAsPDF.csproj.CoreCompileInputs.cache
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\obj\Release\DownloadWebsiteAsPDF.exe
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\obj\Release\DownloadWebsiteAsPDF.pdb
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\bin\Release\PdfSharp.Charting.dll
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\bin\Release\PdfSharp.dll
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\bin\Release\PdfSharp.xml
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\bin\Release\PdfSharp.Charting.xml
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\bin\Release\de\PdfSharp.resources.dll
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\bin\Release\de\PdfSharp.Charting.resources.dll
+C:\Users\Spencer\source\repos\DownloadWebsiteAsPDF\obj\Release\DownloadWebsiteAsPDF.csproj.CopyComplete
